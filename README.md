@@ -6,6 +6,8 @@ You can find the test cases in n26-test-case.md to test the Monefy Android App
 
 ## Rest API - API Playground TestCases
 
+You can find the automation package in N26Project folder.
+
 Please find below the steps to setup this project in eclipse and to run the project in the same
 
 ### Basic Requirements
